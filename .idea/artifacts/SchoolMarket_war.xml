@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SchoolMarket:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SchoolMarket-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SchoolMarket:war exploded" />
+    </root>
+  </artifact>
+</component>
